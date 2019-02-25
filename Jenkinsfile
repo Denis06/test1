@@ -4,7 +4,7 @@ pipeline {
     stage('build'){
     steps {
       echo 'hello word'
-      echo 'Oui!'
+      echo 'Oui! YO YO'
       }
      }
     }
